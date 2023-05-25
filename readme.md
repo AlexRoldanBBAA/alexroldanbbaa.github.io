@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Invierno)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
