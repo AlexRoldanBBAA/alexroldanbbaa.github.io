@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Invierno
 
-**Web:**   (alexroldanbbaa.github.io)
+**Web:**   alexroldanbbaa.github.io
 
 **Autor:**  Alex Roldán Tallón
 
