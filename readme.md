@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-! [Logo](https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg)
+! [Logotipo](https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg)
 
 
 **Resolución:** 800x600px 
