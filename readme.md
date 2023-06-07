@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Invierno
 
-**Web:**   alexroldanbbaa.github.io
+**Web:**   alexroldan.github.io
 
 **Autor:**  Alex Roldán Tallón
 
@@ -19,9 +19,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Cartas/Test
 
 **Logotipo** : 
-! [logo] https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg
 
-(insertar imágenes a resolucion de 100px alto)
+! (https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg)
+
 
 **Resolución:** 800x600px 
 
@@ -77,13 +77,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque  muestra como  con pocos recursos se puede crear un videojuego.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a   jugadores casuales
 
 
 
@@ -91,25 +91,27 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. 
+-El juego consta de dos mini juegos  los cuales puedes seleccionar desde el menú de inicio.
 - Video 
+- El video se utiliza como recurso de apoyo al finalizar cada mini juego
 - Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Menús y elementos de navegación 
+- Los botones tienen un diseño propio que los ayudan a integrarse en la estética de dibujo que rodea al proyecto.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El mayor de los problemas que puede presentar este proyecto es la velocidad a la que vuelven a girar las cartas en el primer minijuego, dificultando la visualizacón de las mismas.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Para mejorar este proyecto añadiría un nexo de unión entre ambos mini juegos.
 
 
 
@@ -117,11 +119,7 @@ Este  proyecto es interesante porque ...
 
 
 
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+# 5 Referencia 
 
 **Recursos y materiales audiovisuales:**
 
@@ -132,12 +130,7 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
+- Procreate
+-  Photoshop
 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Junio 23
+5 de junio
