@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-! (https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg)
+! [Logo](https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg)
 
 
 **Resolución:** 800x600px 
@@ -94,12 +94,11 @@ Este  proyecto es interesante porque  muestra como  con pocos recursos se puede 
 
 
 - Juego. 
--El juego consta de dos mini juegos  los cuales puedes seleccionar desde el menú de inicio.
+El juego consta de dos mini juegos  los cuales puedes seleccionar desde el menú de inicio.
 - Video 
-- El video se utiliza como recurso de apoyo al finalizar cada mini juego
-- Instrucciones y ayuda al usuario 
+El video se utiliza como recurso de apoyo al finalizar cada mini juego
 - Menús y elementos de navegación 
-- Los botones tienen un diseño propio que los ayudan a integrarse en la estética de dibujo que rodea al proyecto.
+Los botones tienen un diseño propio que los ayudan a integrarse en la estética de dibujo que rodea al proyecto.
 
 
 
@@ -131,6 +130,6 @@ Para mejorar este proyecto añadiría un nexo de unión entre ambos mini juegos.
 
 - Hippani Animator 5.1
 - Procreate
--  Photoshop
+- Photoshop
 
 5 de junio
