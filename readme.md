@@ -18,7 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Cartas/Test
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+! [logo] https://github.com/AlexRoldanBBAA/alexroldanbbaa.github.io/blob/master/Logo.jpg
 
 (insertar imágenes a resolucion de 100px alto)
 
